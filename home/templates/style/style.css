@@ -1,0 +1,34 @@
+body{
+    background-color:rosybrown;
+}
+
+
+nav{
+    border-style: solid;
+    border-color: chartreuse;
+    padding: 1%;
+    }
+
+ul {
+    border-style: solid;
+    border-color: chocolate;
+    padding-bottom: 29px;
+    list-style-type: none;
+    margin: 1%;
+    
+    
+    
+  }
+
+li{
+    float: left;
+    border-style:groove ;
+}
+
+a{
+    display: block;
+    padding: 3px;
+    background-color: sienna;
+    border: chartreuse;
+    
+}
